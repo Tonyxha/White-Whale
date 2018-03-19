@@ -8,6 +8,7 @@
 		<h1>Page d'accueil</h1>
 
 			<p>Du texte</p>
+			<p> encore plus de texte</p>
 			
 
 
